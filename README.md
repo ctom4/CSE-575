@@ -1,1 +1,1 @@
-The repository for my CSE 575 Projects
+My Projects for CSE 575: Statistical Machine Learning
